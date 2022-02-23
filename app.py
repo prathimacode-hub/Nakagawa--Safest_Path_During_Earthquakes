@@ -314,10 +314,10 @@ elif add_selectbox == 'Conclusion':
     
     st.subheader('TECH STACK')
 
-    st.markdown('• Data Gathering - ', unsafe_allow_html=True)
-    st.markdown('• Data Preparation - ', unsafe_allow_html=True)
-    st.markdown('• Risk Classification - ', unsafe_allow_html=True) 
-    st.markdown('• Path Finding Algorithms - Python, Jupyter Notebook', unsafe_allow_html=True) 
+    st.markdown('• Data Gathering - Shelter Details, Latitude, Longitude, Ward Type.', unsafe_allow_html=True)
+    st.markdown('• Data Preparation - Merging all the Details, Configuring, Evaluating and Converting it into Readable Format.', unsafe_allow_html=True)
+    st.markdown('• Risk Classification - Japan Earthquake Zoning Areas, Nakagawa Evacuation Shelters, Risk Factors of Earthquake and Building Density', unsafe_allow_html=True) 
+    st.markdown('• Path Finding Algorithms - Python, Jupyter Notebook (Earthquake Risk Score, Building Density Risk Score, Distance Risk Score and Combined Risk Score.', unsafe_allow_html=True) 
     st.markdown('• Dashboard - Streamlit.', unsafe_allow_html=True) 
     
     st.subheader('PROJECT SUMMARY')
