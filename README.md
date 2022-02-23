@@ -65,11 +65,11 @@ We had choosen "Nakagawa-Ku as our region of interest, which comes under Aichi p
 
 ### Nakagawa Building Density Score
 
-![img](https://github.com/prathimacode-hub/Nakagawa--Safest_Path_During_Earthquakes/blob/main/Nakagawa_Building_Density_Score.png)
+![img](https://github.com/prathimacode-hub/Nakagawa--Safest_Path_During_Earthquakes/blob/main/nakagawa_graph_building_density_risk.jpg)
 
-### Nakagawa Distance Risk Score
+### Nakagawa Earthquake Risk Score
 
-![img](https://github.com/prathimacode-hub/Nakagawa--Safest_Path_During_Earthquakes/blob/main/Nakagawa_Distance_Risk_Score.png)
+![img](https://github.com/prathimacode-hub/Nakagawa--Safest_Path_During_Earthquakes/blob/main/nakagawa_graph_earthquake_risk.jpg)
 
 
 ## Tech Stack
