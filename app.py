@@ -305,9 +305,9 @@ elif add_selectbox == 'Visualizations':
     st.markdown('<h4>Nakagawa Shelter Maps</h4>', unsafe_allow_html=True)
     st.image("Nakagawa_Shelter_Maps.png", width=500)
     st.markdown('<h4>Nakagawa Building Density Score</h4>', unsafe_allow_html=True)
-    st.image("Nakagawa_Building_Density_Score.png", width=500)
-    st.markdown('<h4>Nakagawa Distance Risk Score</h4>', unsafe_allow_html=True)
-    st.image("Nakagawa_Distance_Risk_Score.png", width=500)
+    st.image("nakagawa_graph_building_density_risk.jpg", width=500)
+    st.markdown('<h4>Nakagawa Earthquake Risk Score</h4>', unsafe_allow_html=True)
+    st.image("nakagawa_graph_earthquake_risk.jpg", width=500)
  
 
 elif add_selectbox == 'Conclusion':
@@ -317,18 +317,20 @@ elif add_selectbox == 'Conclusion':
     st.markdown('• Data Gathering - ', unsafe_allow_html=True)
     st.markdown('• Data Preparation - ', unsafe_allow_html=True)
     st.markdown('• Risk Classification - ', unsafe_allow_html=True) 
-    st.markdown('• Path Finding Algorithms - Python, Jupyter Notebooks', unsafe_allow_html=True) 
-    st.markdown('• Dashboard - Streamlit, Heroku', unsafe_allow_html=True) 
+    st.markdown('• Path Finding Algorithms - Python, Jupyter Notebook', unsafe_allow_html=True) 
+    st.markdown('• Dashboard - Streamlit.', unsafe_allow_html=True) 
     
     st.subheader('PROJECT SUMMARY')
 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
+    st.markdown('• Gathering the data about the Shelters (Earthquake, Tsunami and Flood) on Nakagawa Ward with various parameters needed to calculate risk factor and safest path.', unsafe_allow_html=True) 
+    st.markdown('• Preparing and pre-processing the data for it to read and determine the risk classification and path finding appropriately.', unsafe_allow_html=True) 
+    st.markdown('• Check up, configure and evaluate with the risk factors based on distance, building density and earthquake considerations.', unsafe_allow_html=True) 
+    st.markdown('• Devising the safest path using algorithms that gives out the best possible route to take up during emergencies.', unsafe_allow_html=True) 
+    st.markdown('• Deploying Safest Path Integrated Web App on Streamlit.', unsafe_allow_html=True) 
     
     st.subheader('CONCLUSION')
     
-    st.markdown('Write Conclusion here', unsafe_allow_html=True)
+    st.markdown('An Interactive WebApp to devise safest path in Nakagawa-Ku region, Japan during natural disasters like Earthquakes, Tsunamis and Floods that helps in prioritizing the citizens safety in risk prone zones.', unsafe_allow_html=True)
 
 	
 elif add_selectbox == 'Team':
