@@ -16,6 +16,9 @@ Challenge hosted by **Omdena - Japan Chapter**
 
 You can find all the pickle files [here](https://drive.google.com/drive/folders/1vZZEMmqwSh2kBMuGg3LnZQ8AZeWwGH_o?usp=sharing)
 
+<!-- Complete adding textual content for all task sections in tasks folder and add the data for final presentation slides -->
+<!-- Add final presentation and project demo in results and reports -->
+
 
 ## Project Goals
 
