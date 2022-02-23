@@ -8,7 +8,7 @@ Challenge hosted by **Omdena - Japan Chapter**
 
 **Omdena Japan Chapter Challenge Original Repo** : https://github.com/OmdenaAI/omdena-japan-finding-paths-to-safety-following-natural-disasters
 
-**Final Presentation Link** : 
+**Final Presentation Link** : https://docs.google.com/presentation/d/1QXsRvVFebxiqTap7XVmtLy226pMNWzFn/edit?usp=sharing&ouid=101910884647262199554&rtpof=true&sd=true
 
 **Japan Safest Path Google Drive Path** : https://drive.google.com/drive/folders/1ad9nzMFXG22QrsqpAWb79-MRedfFi-GS
 
