@@ -35,7 +35,7 @@ ox.config(use_cache=True, log_console=True)
 pyo.init_notebook_mode(connected=True)
 
 st.set_page_config(
-    page_title="Nakagwa - Safest Path during Earthquakes",
+    page_title="Nakagawa - Safest Path during Earthquakes",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -92,7 +92,7 @@ st.markdown(
 )
 
 
-st.sidebar.markdown('<h1 style="margin-left:8%; color:#FA8072">Nakagwa - Safest Path during Earthquakes </h1>', unsafe_allow_html=True)
+st.sidebar.markdown('<h1 style="margin-left:8%; color:#FA8072">Nakagawa - Safest Path during Earthquakes </h1>', unsafe_allow_html=True)
 
 add_selectbox = st.sidebar.radio(
     "",
