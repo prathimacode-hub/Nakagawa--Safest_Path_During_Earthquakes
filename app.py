@@ -341,11 +341,11 @@ elif add_selectbox == 'Team':
                 unsafe_allow_html=True)
     st.markdown('<a href="https://www.linkedin.com/in/armielyn-obinguar-9229561b0/">Armielyn Obinguar</a>',
                 unsafe_allow_html=True)
-    st.markdown('<a href="https://www.linkedin.com/in/rhey-ann-magcalas-47541490/">Rhey Ann Magcalas</a>',
-                unsafe_allow_html=True)
     st.markdown('<a href="https://www.linkedin.com/in/deepali-bidwai/">Deepali Bidwai</a>',
                 unsafe_allow_html=True)
     st.markdown('<a href="https://www.linkedin.com/in/shalini-gj-6a006712/">Shalini GJ</a>',
+                unsafe_allow_html=True)
+    st.markdown('<a href="https://www.linkedin.com/in/rhey-ann-magcalas-47541490/">Rhey Ann Magcalas</a>',
                 unsafe_allow_html=True)
     st.markdown('<a href="https://www.linkedin.com/in/pawan-roy123">Pawan Roy Choudhury</a>',
                 unsafe_allow_html=True)
