@@ -14,7 +14,7 @@ Challenge hosted by **Omdena - Japan Chapter**
 
 **Japan Safest Path Dashboard Streamlit App** : https://share.streamlit.io/prathimacode-hub/nakagawa--safest_path_during_earthquakes/main/app.py
 
-You can find all the pickle files [here]()
+You can find all the pickle files [here](https://drive.google.com/drive/folders/1vZZEMmqwSh2kBMuGg3LnZQ8AZeWwGH_o?usp=sharing)
 
 
 ## Project Goals
