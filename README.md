@@ -74,15 +74,16 @@ We had choosen "Nakagawa-Ku as our region of interest, which comes under Aichi p
 
 ## Tech Stack
 
-• Data Gathering - 
+• Data Gathering - Shelter Details, Latitude, Longitude, Ward Type.
 
-• Data Preparation - 
+• Data Preparation - Merging all the Details, Configuring, Evaluating and Converting it into Readable Format.
 
-• Risk Classification - 
+• Risk Classification - Japan Earthquake Zoning Areas, Nakagawa Evacuation Shelters, Risk Factors of Earthquake and Building Density.
 
-• Path Finding Algorithms - 
+• Path Finding Algorithms - Python, Jupyter Notebook (Earthquake Risk Score, Building Density Risk Score, Distance Risk Score and Combined Risk Score).
 
-• Dashboard - Streamlit
+• Dashboard - Streamlit.
+
 
 ## Project Summary
 
@@ -91,7 +92,8 @@ We had choosen "Nakagawa-Ku as our region of interest, which comes under Aichi p
 • Check up, configure and evaluate with the risk factors based on distance, building density and earthquake considerations.
 • Devising the safest path using algorithms that gives out the best possible route to take up during emergencies.
 • Deploying Safest Path Integrated Web App on Streamlit. 
-    
+ 
+ 
 ## Conclusion
 
 An Interactive WebApp to devise safest path in Nakagawa-Ku region, Japan during natural disasters like Earthquakes, Tsunamis and Floods that helps in prioritizing the citizen's safety in risk prone zones.
