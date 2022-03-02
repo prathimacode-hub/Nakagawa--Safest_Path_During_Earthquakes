@@ -355,6 +355,8 @@ elif add_selectbox == 'Team':
                 unsafe_allow_html=True)
     st.markdown('<a href="https://www.linkedin.com/in/mkmanolova/">Monika Manolova</a>',
                 unsafe_allow_html=True)
+    st.markdown('<a href="https://www.linkedin.com/in/abdulbaaqi/">Abdul Baaqi</a>',
+                unsafe_allow_html=True)
 
     st.subheader('PROJECT MANAGER')
 
