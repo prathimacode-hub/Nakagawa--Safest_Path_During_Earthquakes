@@ -92,7 +92,7 @@ st.markdown(
 )
 
 
-st.sidebar.markdown('<h1 style="margin-left:8%; color:#FA8072">Nakagawa - Safest Path during Earthquakes </h1>', unsafe_allow_html=True)
+st.sidebar.markdown('<h1 style="margin-left:8%; color:#FA8072">Nakagawa - Safest Path during Natural Disasters </h1>', unsafe_allow_html=True)
 
 add_selectbox = st.sidebar.radio(
     "",
