@@ -35,7 +35,7 @@ ox.config(use_cache=True, log_console=True)
 pyo.init_notebook_mode(connected=True)
 
 st.set_page_config(
-    page_title="Nakagawa - Safest Path during Earthquakes",
+    page_title="Nakagawa - Safest Path during Natural Disasters",
     layout="wide",
     initial_sidebar_state="expanded",
 )
