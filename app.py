@@ -305,9 +305,9 @@ elif add_selectbox == 'Visualizations':
     st.markdown('<h4>Nakagawa Shelter Maps</h4>', unsafe_allow_html=True)
     st.image("Nakagawa_Shelter_Maps.png", width=650)
     st.markdown('<h4>Nakagawa Building Density Score</h4>', unsafe_allow_html=True)
-    st.image("nakagawa_graph_building_density_risk.jpg", width=500)
+    st.image("nakagawa_graph_building_density_risk.jpg", width=650)
     st.markdown('<h4>Nakagawa Earthquake Risk Score</h4>', unsafe_allow_html=True)
-    st.image("nakagawa_graph_earthquake_risk.jpg", width=500)
+    st.image("nakagawa_graph_earthquake_risk.jpg", width=650)
  
 
 elif add_selectbox == 'Conclusion':
