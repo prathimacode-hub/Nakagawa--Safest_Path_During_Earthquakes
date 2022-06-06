@@ -203,8 +203,11 @@ elif add_selectbox == 'Safest Path':
         # start = (57.715495, 12.004210)
         # end = (57.707166, 11.978388)
 
-        start = (35.1394307, 136.8565519)
-        end = (35.1301611, 136.8697751)
+        start = (35.1547177, 136.826244)
+	end = (35.1394307, 136.8565519)
+	#start = (35.1433217, 136.8425095)
+	#end = (35.1301611, 136.8697751)
+        #end = (35.1301611, 136.8697751)
 
         start_node = ox.get_nearest_node(G, start)
         end_node = ox.get_nearest_node(G, end)# Calculate the shortest path
