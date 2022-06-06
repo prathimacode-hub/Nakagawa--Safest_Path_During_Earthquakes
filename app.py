@@ -180,7 +180,7 @@ elif add_selectbox == 'Safest Path':
 	
     st.subheader('FIND THE SAFEST PATH')
 	
-    current_location = st.text_input('Current Location:') 
+    current_location = st.text_input('Designated Location:') 
 
     if st.button('Search'):
         api_token = "pk.eyJ1IjoicHJhdGhpbWFrYWRhcmkiLCJhIjoiY2t6MmxlaDVvMXAxaDJ2cWtrM3BzMGZuMCJ9.m5BXW9QUs914PCaWkepfHA"
